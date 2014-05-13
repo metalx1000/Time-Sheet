@@ -1,4 +1,3 @@
-Time-Sheet
-==========
-
-Very Simple Time Sheet Program
+Fireware
+========
+A Very Basic Time Sheet Program for logging hours of employees.

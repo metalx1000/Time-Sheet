@@ -1,0 +1,29 @@
+[13-May-2014 11:24:56 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'metalx'@'localhost' (using password: NO) in /home3/metalx/public_html/scripts/work/hours/submit_log.php on line 10
+[13-May-2014 11:24:56 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home3/metalx/public_html/scripts/work/hours/submit_log.php on line 10
+[13-May-2014 11:29:43 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'metalx'@'localhost' (using password: NO) in /home3/metalx/public_html/scripts/work/hours/submit_log.php on line 10
+[13-May-2014 11:29:43 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home3/metalx/public_html/scripts/work/hours/submit_log.php on line 10
+[13-May-2014 11:30:13 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'metalx'@'localhost' (using password: NO) in /home3/metalx/public_html/scripts/work/hours/submit_log.php on line 10
+[13-May-2014 11:30:13 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home3/metalx/public_html/scripts/work/hours/submit_log.php on line 10
+[13-May-2014 11:31:22 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/metalx/public_html/scripts/work/hours/submit_log.php on line 12
+[13-May-2014 11:31:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/metalx/public_html/scripts/work/hours/submit_log.php on line 12
+[13-May-2014 11:32:18 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/metalx/public_html/scripts/work/hours/submit_log.php on line 13
+[13-May-2014 12:09:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 10
+[13-May-2014 12:10:57 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 10
+[13-May-2014 12:11:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 11
+[13-May-2014 12:13:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 10
+[13-May-2014 12:15:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 11
+[13-May-2014 12:35:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 11
+[13-May-2014 12:35:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 8
+[13-May-2014 12:35:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 11
+[13-May-2014 12:35:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 11
+[13-May-2014 12:36:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 11
+[13-May-2014 12:38:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 11
+[13-May-2014 12:38:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 11
+[13-May-2014 12:38:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 11
+[13-May-2014 12:44:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home3/metalx/public_html/scripts/work/hours/get_date.php on line 32
+[13-May-2014 12:59:14 America/Chicago] PHP Warning:  include(get_date_cells.php?startDate=2014-05-12&amp;endDate=2014-05-14): failed to open stream: No such file or directory in /home3/metalx/public_html/scripts/work/hours/search.php on line 53
+[13-May-2014 12:59:14 America/Chicago] PHP Warning:  include(get_date_cells.php?startDate=2014-05-12&amp;endDate=2014-05-14): failed to open stream: No such file or directory in /home3/metalx/public_html/scripts/work/hours/search.php on line 53
+[13-May-2014 12:59:14 America/Chicago] PHP Warning:  include(): Failed opening 'get_date_cells.php?startDate=2014-05-12&amp;endDate=2014-05-14' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/metalx/public_html/scripts/work/hours/search.php on line 53
+[13-May-2014 13:00:29 America/Chicago] PHP Warning:  include(get_date_cells.php?startDate=2014-05-12&amp;endDate=2014-05-14): failed to open stream: No such file or directory in /home3/metalx/public_html/scripts/work/hours/search.php on line 53
+[13-May-2014 13:00:29 America/Chicago] PHP Warning:  include(get_date_cells.php?startDate=2014-05-12&amp;endDate=2014-05-14): failed to open stream: No such file or directory in /home3/metalx/public_html/scripts/work/hours/search.php on line 53
+[13-May-2014 13:00:29 America/Chicago] PHP Warning:  include(): Failed opening 'get_date_cells.php?startDate=2014-05-12&amp;endDate=2014-05-14' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/metalx/public_html/scripts/work/hours/search.php on line 53
